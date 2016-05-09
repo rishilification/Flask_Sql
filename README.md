@@ -7,7 +7,7 @@ The app.py is a flask framework based program that contains a bunch of apis for 
 The app.py also has a query retrieval API, you will have edit the code based on your table and your query requirements.
 
 The requests.py program contains all the requests that you could use with this flask program.
-Edit the requests if you are using different data, and call the necessary function. Better yet, include batteries in the code for easy functon calling.
+Edit the requests if you are using different data, and call the necessary function. Better yet, include batteries in the code for easy function calling.
 
 ## NOTE: 
 All the programs here have been created for the data1.csv file provided, any other data file would require the necessary edits.
